@@ -7,7 +7,7 @@ const imgSize = {
 
 const imgSizeSmall = {
 	width: "45px",
-	"margin-left": "20px",
+	"marginLeft": "20px",
 	height: "45px"
 }
 
