@@ -14,7 +14,7 @@ const imgSizeSmall = {
 var About = (props) => {
 	return (
 		<div>
-			<h1 className="text-center">About</h1>
+			<h1 className="text-center page-title">About</h1>
 			<div>
 			This app is part of the <a target="_blank" href="https://www.udemy.com/the-complete-react-web-app-developer-course/learn/v4/">Udemy React class</a> taught by Andrew Mead. I am learning
 			and software engineering through Udemy, freeCodeCamp and many other excellent references.
